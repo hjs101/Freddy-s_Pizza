@@ -109,7 +109,7 @@
 ---
 - Git
 - Notion
-- discode
+- Discode
 
 ### 기능 정의
 
