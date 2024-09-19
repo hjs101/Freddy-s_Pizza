@@ -163,9 +163,9 @@ ex) GetUserInfomation()
 **예시)** 
 
 
-**#31 fix 빌드실패 - blob → recordedBlob**
+#31 fix 빌드실패 - blob → recordedBlob
 
-**#31 feat params fd 하나만 보내지말고 applicantNo 추가해서 백엔드에 보내기**
+#31 feat params fd 하나만 보내지말고 applicantNo 추가해서 백엔드에 보내기
 
 ## 📌 종류 (+[깃모지 추가](https://gitmoji.dev/))
 
@@ -246,5 +246,3 @@ ex) GetUserInfomation()
 ```
 💩  :poop: 똥싼 코드 Write bad code that needs to be improved.
 ```
-
-`**깃모지 출처**: [https://inpa.tistory.com/entry/GIT-⚡️-Gitmoji-사용법-Gitmoji-cli](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)`
