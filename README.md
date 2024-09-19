@@ -156,7 +156,7 @@ ex) GetUserInfomation()
 ## 📌 Commit 규칙
 
 <aside>
-💡 **#git이슈번호 종류 - 내용(한국어/영어 상관없음)**
+💡 #git이슈번호 종류 - 내용(한국어/영어 상관없음)
 
 </aside>
 
