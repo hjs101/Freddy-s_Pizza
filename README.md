@@ -138,7 +138,7 @@ if(Speed == 0)
 5. 함수명을 작성할 때는 **동사 + 명사**로
 
 ```
-ex) getUserInfomation()
+ex) GetUserInfomation()
 ```
 
 6. 변수, 함수명 글자 수 는 **최대 20자**까지
